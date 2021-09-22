@@ -1,4 +1,4 @@
-# Guide to run "Insurance Premium Prediction.ipynb"
+# Guide to run "Engineering_Placement_Prediction.ipynb"
 
   
 
@@ -11,15 +11,15 @@ To make sure
   
 
 > if you are using cmd
-type `cd` and hit enter it should display "\Insurance_Premium_Prediction\jNotebook Files"
+type `cd` and hit enter it should display "\Engineering-Placement-Prediction\jNotebook Files"
 
 
 > if you are using powershell
-type `pwd` and hit enter it should display "\Insurance_Premium_Prediction\jNotebook Files"
+type `pwd` and hit enter it should display "\Engineering-Placement-Prediction\jNotebook Files"
 
 
 > if you are using bash terminal
-type `pwd` and hit enter it should display "/Insurance_Premium_Prediction/jNotebook Files"
+type `pwd` and hit enter it should display "/Engineering-Placement-Prediction/jNotebook Files"
 
 
 if you are not inside type `cd "jNotebook Files"` and hit enter
@@ -46,8 +46,8 @@ ____
 
 # Info
 
-## data folder containing insurance data(csv).
-Dataset has been taken from https://www.kaggle.com/noordeen/insurance-premium-prediction
+## data folder containing engineering placement data(csv).
+Dataset has been taken from https://www.kaggle.com/tejashvi14/engineering-placements-prediction
 
 ## model folder containing all saved models
 
