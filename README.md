@@ -1,1 +1,2 @@
-# Engineering-Placements-Prediction
+# Insurance Premium Prediction Project
+

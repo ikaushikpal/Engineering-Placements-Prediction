@@ -1,0 +1,1 @@
+web: sh setup.sh && cd deployment && streamlit run "Inssurance Premium Prediction.py"
