@@ -1,4 +1,4 @@
-# Guide to run "Insurance Premium Prediction.py"
+# Guide to run "Engineering Placement Prediction.py"
 
   
 
@@ -11,17 +11,17 @@ To make sure
   
 
 > if you are using cmd
-type `cd` and hit enter it should display "\Insurance_Premium_Prediction\deployment"
+type `cd` and hit enter it should display "\Engineering_Placement_Prediction\deployment"
 
   
 
 > if you are using powershell
-type `pwd` and hit enter it should display "\Insurance_Premium_Prediction\deployment"
+type `pwd` and hit enter it should display "\Engineering_Placement_Prediction\deployment"
 
   
 
 > if you are using bash terminal
-type `pwd` and hit enter it should display "/Insurance_Premium_Prediction/deployment"
+type `pwd` and hit enter it should display "/Engineering_Placement_Prediction/deployment"
 
   
 
@@ -39,7 +39,7 @@ type `pip install -U -r requirements.txt` and hit enter
 
 ### Start the server
 
-type `streamlit run "Insurance Premium Prediction.py"` and hit enter
+type `streamlit run "Engineering Placement Prediction.py"` and hit enter
 
 Now its working on your local computer.
 
@@ -55,4 +55,4 @@ models folder contains saved models, actually copied from "jNotebook Files/model
 
 "utilty.py" contains all useful functions to run this web app, such as load_data, user_input_features, scaleDF, predictTarget.
 
-"Insurance Premium Prediction.py" containing all remaining texts and complete usage.
+"Engineering Placement Prediction.py" containing all remaining texts and complete usage.
