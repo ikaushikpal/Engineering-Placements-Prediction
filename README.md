@@ -1,7 +1,5 @@
 # Insurance Premium Prediction Project
 
-Hur Hur Dabang Dabang Dabag
-
 ## Contributors
 <a href="https://github.com/ikaushikpal/Engineering-Placements-Prediction/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ikaushikpal/Engineering-Placements-Prediction" />
